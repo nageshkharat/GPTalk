@@ -20,3 +20,13 @@ A ChatGPT-like application built using the MERN stack (MongoDB, Express.js, Reac
 1. Clone the repository:
    ```bash
    git clone https://github.com/nageshkharat/GPTalk.git
+2. frontend
+   ```bash
+   npm install
+   npm dev run
+   cd ..
+3. backend
+   ```bash
+   cd backend
+   npm install
+   npm dev run
