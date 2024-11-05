@@ -2,6 +2,12 @@
 
 A ChatGPT-like application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and the OpenAI API.
 
+![Screenshot (1076)](https://github.com/user-attachments/assets/c3127b69-d962-40df-9f47-37d99ae9f0b3)
+![Screenshot (1077)](https://github.com/user-attachments/assets/5278aa51-0638-475c-b70c-61df200b8676)
+![Screenshot (1078)](https://github.com/user-attachments/assets/64a21342-f7b6-4ecc-acda-0f66cf649f6c)
+![Uploading Screenshot (1079).png…]()
+
+
 ## Features
 
 - User authentication (login/logout)
